@@ -1,7 +1,7 @@
 # RandomCssColers
 Generate random css colors
 
-A simple function to reate CSS RGB and RGBA colors randomly.
+A simple function to create CSS RGB and RGBA colors randomly.
 
 Enjoy (;
 
