@@ -9,8 +9,8 @@ function randomColor() {
 }
 
 //RGB
-function rgbaColors(red, green, blue) {
-  return 'rgba(' + randomColor() + ',' + randomColor() + ',' + randomColor() + ',' + a + ')';
+function rgbColors(red, green, blue) {
+  return 'rgb(' + randomColor() + ',' + randomColor() + ',' + randomColor() + ')';
 }
 
 //RGBA
